@@ -1,2 +1,2 @@
 # test-dash
-testing of my first dash web app
+Testing and debugging of Dash web app in Python
